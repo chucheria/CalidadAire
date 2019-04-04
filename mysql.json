@@ -1,0 +1,9 @@
+{
+    "airquality": {
+        "host": "datmeandb.cgklemayrjuk.eu-west-1.rds.amazonaws.com",
+        "port": "3306",
+        "user": "datmeanRoot",
+        "password": "senc0stag2016.es",
+        "db": "CALIDAD_AIRE"
+    }
+}
